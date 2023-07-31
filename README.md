@@ -3,6 +3,7 @@
 This is the repository where all the lecture notes and resources will live. We will also be using this repo to publish checkpoints during the intensive period.
 
 # Written Instructions to Connect to This Repository:
+We will be going over these instructions plenty of times in class as well.
 
 1. FORK this repository, creating a copy on your own GitHub account
 
@@ -19,7 +20,8 @@ git remote add upstream https://github.com/flatiron-school/DS-Deloitte-070723.gi
 ```
 git add [filename]
 git commit -m 'message here'
-git push```
+git push
+```
 
 ## Whenever you want to get updated notes:
 
