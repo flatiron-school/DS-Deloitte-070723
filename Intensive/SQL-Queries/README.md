@@ -5,12 +5,6 @@ Exposure to SQLite and SQL SELECT syntax, as well as to the structure of relatio
 Materials:
 - [Jupyter Notebook: SQL Queries](sql_queries.ipynb)
 
-## Before Lecture Prep
-
-Slack the following message to students a few hours before lecture:
-
-> Looking forward to diving into SQL with you all soon! To prepare for our first SQL lecture, please read Peter Bell's great piece [on relational databases](https://flatironschool.com/blog/an-introduction-to-the-relational-database).
-
 ## Learning Goals
 
 - Describe relational databases
