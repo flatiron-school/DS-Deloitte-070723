@@ -1,7 +1,7 @@
 # Architecting Pipelines with AWS
 ##### [Source](https://docs.aws.amazon.com/sagemaker/latest/dg/define-pipeline.html)
 
-**Note:** *This lecture presupposes an adequate [AWS Overview](AWS Overview.md). Additionally, it is assumed that the [Pipeline Execution notebook](Pipeline Creation.ipynb) content will be discussed at the beginning of the [Pipeline Execution lecture](Pipeline Execution.ipynb).*
+**Note:** *This lecture presupposes an adequate [AWS Overview](https://github.com/flatiron-school/DS-Deloitte-070723/blob/main/Apprenticeship/Architecting%20Pipelines%20on%20AWS/AWS%20Overview.md). Additionally, it is assumed that the [Pipeline Execution notebook](https://github.com/flatiron-school/DS-Deloitte-070723/blob/main/Apprenticeship/Architecting%20Pipelines%20on%20AWS/Pipeline%20Creation.ipynb) content will be discussed at the beginning of the [Pipeline Execution lecture](https://github.com/flatiron-school/DS-Deloitte-070723/blob/main/Apprenticeship/Architecting%20Pipelines%20on%20AWS/Pipeline%20Execution.ipynb).*
 
 To orchestrate your workflows with Amazon SageMaker Model Building Pipelines, you need to generate a directed acyclic graph (DAG) in the form of a JSON pipeline definition. The following image is a representation of the pipeline DAG that is created using the workflow described in this notebook:
 
